@@ -19,5 +19,6 @@ This site is structured to align with the assessment criteria. You can navigate 
 
 * **Module Artefacts:** A curated collection of my work from each unit.
 * **Group Project Hub:** Details on our team's project, including my individual contributions.
+* **Evaluation of Final Project:** Evaluation of the final project submitted in Unit 11 against the initial proposal drafted in Unit 6.
 * **Final Reflection:** A 1,000-word critical reflection on my development.
 * **References:** A consolidated list of all sources.
