@@ -7,7 +7,7 @@
 
 ### Welcome
 
-Welcome to my end-of-module e-portfolio for the MSc in Artificial Intelligence. This portfolio documents my learning journey, practical contributions, and critical reflections throughout the "[Module Name]" module. It is designed to showcase my development in applying machine learning techniques and my growth as a member of a professional development team.
+Welcome to my end-of-module e-portfolio for the MSc in Artificial Intelligence. This portfolio documents my learning journey, practical contributions, and critical reflections throughout the "Machine Learning April 2025 B" module. It is designed to showcase my development in applying machine learning techniques and my growth as a member of a professional development team.
 
 ### About This Module
 
